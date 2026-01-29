@@ -1,5 +1,10 @@
 # ai-release
 
+[![npm version](https://img.shields.io/npm/v/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
+[![npm downloads](https://img.shields.io/npm/dm/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Automatic semantic versioning, release notes, and git tags. Reads your commits and figures out the rest.
 
 ## Install
