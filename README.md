@@ -3,6 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
 [![npm downloads](https://img.shields.io/npm/dm/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-release)](https://github.com/lxgic-studios/ai-release/stargazers)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+
 
 
 Automatic semantic versioning, release notes, and git tags. Reads your commits and figures out the rest.
