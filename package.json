@@ -35,17 +35,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-release#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-release#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-release"
+    "url": "git+https://github.com/lxgicstudios/ai-release.git"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/@lxgicstudios/ai-release/issues"
+    "url": "https://github.com/lxgicstudios/ai-release/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
+    "url": "https://github.com/sponsors/lxgicstudios"
   },
   "engines": {
     "node": ">=18.0.0"
