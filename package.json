@@ -15,33 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "release",
-    "versioning",
-    "semver",
-    "npm-publish",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
     "changelog",
-    "deployment"
+    "claude",
+    "cli",
+    "deployment",
+    "developer-productivity",
+    "developer-tools",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "npm",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "publish",
+    "release",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-release#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-release.git"
+    "url": "https://github.com/LXGIC-Studios/ai-release"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-release/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-release/issues"
   },
   "funding": {
     "type": "github",

@@ -1,50 +1,125 @@
-# ai-release
+## 📄 License
 
-[![npm version](https://img.shields.io/npm/v/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
-[![npm downloads](https://img.shields.io/npm/dm/%40lxgicstudios%2Fai-release.svg)](https://www.npmjs.com/package/@lxgicstudios/ai-release)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/lxgic-studios/ai-release)](https://github.com/lxgic-studios/ai-release/stargazers)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue)](https://www.typescriptlang.org/)
+MIT License - see [LICENSE](LICENSE) file for details.
+## 🏷️ Badges
 
+![npm](https://img.shields.io/npm/v/ai-release)
+![Node.js](https://img.shields.io/badge/node-%3E%3D16.0.0-brightgreen)
+![License](https://img.shields.io/npm/l/ai-release)
+![TypeScript](https://img.shields.io/badge/typescript-%3E%3D4.0-blue)
 
+# Release process automation and management tools
 
-Automatic semantic versioning, release notes, and git tags. Reads your commits and figures out the rest.
-
-## Install
-
-```bash
-npm install -g ai-release
-```
-
+Release automation tool. Creates version tags, changelogs, and deployment scripts.
 ## Usage
 
-```bash
-npx ai-release
-# → minor bump: v1.2.0 → v1.3.0
-# → Creates annotated tag with release notes
+```javascript
+// Import the package
+const release = require('ai-release');
 
-npx ai-release --dry-run
-# → Preview the bump and notes without tagging
-
-npx ai-release --no-tag
-# → Generate notes without creating a git tag
+// Basic usage example
+release.main();
 ```
 
-## Setup
+## Examples
+
+See the `examples/` directory for more detailed usage examples.
+
+## Installation
 
 ```bash
-export OPENAI_API_KEY=sk-...
+npm install ai-release
 ```
 
-## License
+[![npm version](https://badge.fury.io/js/ai-release.svg)](https://badge.fury.io/js/ai-release)
 
-MIT
+
+[![
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗  https://github.com/lxgicstudios ·  https://x.com/lxgicstudios
+
+ like this? We have 100+ on our  github.com/lxgicstudios
+
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+ like this? We have 100+ on our  [github.com/lxgicstudios](https://github.com/lxgicstudios)
+
+
+
+
+
+
+ [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
+
+
+- [npm Advanced SEO Guide](https://github.com/lxgicstudios/npm-seo-guide) - npm package optimization
+- [AI Search Optimization](https://github.com/lxgicstudios/ai-seo-guide) - AI-powered SEO strategies
+
+## 🚀 Built with ❤️ by LXGIC Studios
+
+> This tool is part of the [lxgic studios](https://github.com/lxgicstudios) collection of AI-powered developer tools. We specialize in creating intelligent automation solutions that help developers build faster, smarter, and more efficiently.
+
+
+**Discover more tools:** [lxgic studios GitHub](https://github.com/lxgicstudios)  
+**Follow us on ** [@lxgicstudios](https://twitter.com/lxgicstudios)  
+**Join our community:** [Discord Server](https://discord.gg/lxgicstudios)  
+
+## 📄 License
+
+MIT © 2025 LXGIC Studios. Built with ⚡ and AI.
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+
+<div align="center">
+  <p>
+    <a href="https://github.com/lxgicstudios/sponsor">
+      <img src="https://img.shields.io/badge/-Sponsor%20Us-%23EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor LXGIC Studios">
+    </a>
+    <a href="https://twitter.com/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Follow%20Us-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow LXGIC Studios">
+    </a>
+    <a href="https://discord.gg/lxgicstudios">
+      <img src="https://img.shields.io/badge/-Join%20Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+    </a>
+  </p>
+</div>
+
+---
+
+Built by [LXGIC Studios](https://github.com/lxgicstudios)
+
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
 
 
 ---
 
-Built by [LXGIC Studios](https://github.com/LXGIC-Studios)
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
 
 🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
 
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/lxgicstudios](https://github.com/lxgicstudios)
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
+
+---
+
+**Built by [LXGIC Studios](https://lxgicstudios.com)**
+
+🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)
+
+💡 Want more free tools like this? We have 100+ on our GitHub: github.com/LXGIC-Studios
